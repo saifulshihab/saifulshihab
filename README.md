@@ -4,6 +4,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play video games
 
+<img src="https://komarev.com/ghpvc/?username=saifulshihab&style=flat-square&color=blueviolet" />
+
 ### Connect with me:
 
 [<img align="left" alt="linkdin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
