@@ -7,7 +7,11 @@
 
 ### Tools & Technology:
 
-#### Front-end: HTML, CSS, Bootstrap, JavaScript, React.js, Material UI, Ant Design
+#### Front-End : <HTML, CSS, Bootstrap, JavaScript, React.js, Material UI, Ant Design />
+#### Back-End : <Node.js, Express, PHP, Django />
+#### Database : <MongoDB, MySQL, PostgreSQL, MS SQL />
+#### IDE : <VS Code, Sublime Text, PyCharm />
+#### Others : <Redux, Webpack, Heroku, Netlify />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,7 +34,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
-
+<br/>
 <details>
   <summary>:zap: Github Stats</summary>
   <img align="left" alt="saifulshihab Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=saifulshihab&show_icons=true&hide_border=true" />
@@ -40,7 +44,7 @@
 
 [<img align="left" alt="linkdin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="twitter | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][facebook]
+[<img align="left" alt="facebook | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="instagram | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 [<img align="left" alt="youtube | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
