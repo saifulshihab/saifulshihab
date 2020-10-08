@@ -1,4 +1,4 @@
-### Hi there, I'm Shihab 👋
+### Hi there, I'm [<Shihab/>](https://ishihab-portfolio.herokuapp.com/) 👋
 
 - 🌱 I’m currently learning MERN Stack
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -7,7 +7,7 @@
 
 ### Tools & Technology:
 
-#### Front-End : <HTML, CSS, Bootstrap, JavaScript, React.js, Material UI, Ant Design />
+#### Front-End : <HTML, CSS, Sass, Bootstrap, JavaScript, React.js, Material UI, Ant Design />
 #### Back-End : <Node.js, Express, PHP, Django />
 #### Database : <MongoDB, MySQL, PostgreSQL, MS SQL />
 #### IDE : <VS Code, Sublime Text, PyCharm />
@@ -30,8 +30,6 @@
 <img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
 ---
 <br/>
