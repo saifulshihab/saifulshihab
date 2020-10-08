@@ -1,4 +1,4 @@
-### Hi there, I'm [<Shihab/>](https://ishihab-portfolio.herokuapp.com/) 👋
+### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
 - 🌱 I’m currently learning MERN Stack
 - 🥅 2020 Goals: Contribute more to Open Source projects
