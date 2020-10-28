@@ -7,11 +7,11 @@
 
 ### Tools & Technology:
 
-#### Front-End : <HTML, CSS, Sass, Bootstrap, JavaScript, React.js, Material UI, Ant Design />
-#### Back-End : <Node.js, Express, PHP, Django />
+#### Front-End : <React.js, JavaScript, Bootstrap, Material UI, Ant Design, HTML, CSS, SASS />
+#### Back-End : <Node.js, Express.js, Django, PHP />
 #### Database : <MongoDB, MySQL, PostgreSQL, MS SQL />
 #### IDE : <VS Code, Sublime Text, PyCharm />
-#### Others : <Redux, Webpack, Heroku, Netlify />
+#### Others : <Redux, Webpack, Heroku, Netlify ... />
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
