@@ -1,17 +1,23 @@
 ### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
-- 🌱 Currently working w/ MERN Stack
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ I love to play video games
+- [ ] 🌱 Currently working w/ MERN Stack
+- [ ] 🥅 2020 Goals: Contribute more to Open Source projects
+- [ ] ⚡ I love to play video games
 
 
 ### Tools & Technology:
-
-#### Front-End : <React.js, JavaScript, Bootstrap, Material UI, Ant Design, HTML, CSS, SASS />
-#### Back-End : <Node.js, Express.js, Django, PHP />
-#### Database : <MongoDB, MySQL, PostgreSQL, MS SQL />
-#### IDE : <VS Code, Sublime Text, PyCharm />
-#### Others : <Redux, Webpack, Heroku, Netlify ... />
+```yaml
+{
+  "frontend": {
+    "framework/library": "react.js",
+    "ui": ["ant design", "bootstrap", "material ui", "html", "css", "sass", "javascript"]
+  },
+  "backend": ["node.js", "express.js", "django", "php"],    //mostly node/express
+  "database": ["mongodb", "mysql", "postgresql"],         // mostly mongodb
+  "ide": ["vs code", "sublime text 3"],                     
+  "others": ["redux", "rest api", "webpack", "heroku", "netlify"]
+}
+```
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" /> 
 <img align="left" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
