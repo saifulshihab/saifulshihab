@@ -1,6 +1,6 @@
 ### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
-- 🌱 I’m currently learning MERN Stack
+- 🌱 Currently working w/ MERN Stack
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ I love to play video games
 
@@ -32,10 +32,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 
 <br/>
-<br/>
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=saifulshihab&show_icons=true&count_private=true)  
-
 
 ### Connect w/ Me:
 
