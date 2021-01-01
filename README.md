@@ -1,7 +1,7 @@
 ### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
 - [ ] 🌱 Currently working w/ MERN Stack
-- [ ] 🥅 2020 Goals: Contribute more to Open Source projects
+- [ ] 🥅 2021 Goals: Contribute more to Open Source projects
 - [ ] ⚡ I love to play video games
 
 
