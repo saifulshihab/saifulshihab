@@ -1,8 +1,8 @@
 ### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
 - [ ] 🌱 Currently working w/ MERN Stack
-- [ ] 🥅 2021 Goals: Contribute more to Open Source projects
-- [ ] ⚡ I love to play video games
+- [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, AWS
+- [ ] 🎮 I love to play video games
 
 
 ### Tools & Technology
