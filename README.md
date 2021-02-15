@@ -3,6 +3,7 @@
 - [ ] 🌱 Currently working w/ MERN Stack
 - [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, AWS
 - [ ] 🎮 I love to play video games
+- [ ] Current Project 👉 http://bit.ly/3aklYch
 
 
 ### Tools & Technology
