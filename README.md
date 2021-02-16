@@ -2,8 +2,9 @@
 
 - [ ] 🌱 Currently working w/ MERN Stack
 - [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, AWS
-- [ ] 🎮 I love to play video games
-- [ ] Current Project 👉 http://bit.ly/3aklYch
+- [ ] 💻 Develop: Web Application
+- [ ] 🆕 Current Project 👉 http://bit.ly/3aklYch
+- [ ] 🎮 Hobbies: Playing Video Games, ...
 
 
 ### Tools & Technology
