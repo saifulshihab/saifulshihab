@@ -14,8 +14,8 @@
     "framework/library": "react.js",
     "ui": ["ant design", "bootstrap", "material ui", "html", "css", "tailwindcss", "javascript"]
   },
-  "backend": ["node.js", "express.js", "django", "php"],    //mostly node/express
-  "database": ["mongodb", "mysql", "postgresql"],         // mostly mongodb
+  "backend": ["node.js", "express.js", "django"],    // mostly node/express
+  "database": ["mongodb", "mysql", "postgresql"],    // mostly mongodb
   "ide": ["vs code", "sublime text 3"],                     
   "others": ["redux", "rest api", "webpack", "heroku", "netlify"]
 }
