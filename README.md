@@ -12,7 +12,7 @@
 {
   "frontend": {
     "framework/library": "react.js",
-    "ui": ["ant design", "bootstrap", "material ui", "html", "css", "tailwindcss", "javascript"]
+    "component lib": ["bootstrap", "ant design", "material ui", "tailwindcss", "chakra-ui"]
   },
   "backend": ["node.js", "express.js", "django"],    // mostly node/express
   "database": ["mongodb", "mysql", "postgresql"],    // mostly mongodb
