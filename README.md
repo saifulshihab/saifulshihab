@@ -3,7 +3,7 @@
 - [ ] 🌱 Currently working w/ MERN Stack
 - [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, AWS
 - [ ] 💻 Develop: Web Application
-- [ ] 🆕 Current Project 👉 http://bit.ly/3aklYch
+- [ ] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [ ] 🎮 Hobbies: Playing Video Games, ...
 
 
