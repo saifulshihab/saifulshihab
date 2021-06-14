@@ -1,7 +1,7 @@
 ### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
 
 - [ ] 🌱 Currently working w/ MERN Stack
-- [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, AWS
+- [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, GraphQL
 - [ ] 💻 Develop: Web Application
 - [ ] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [ ] 🎮 Hobbies: Playing Video Games, ...
@@ -11,13 +11,13 @@
 ```yaml
 {
   "frontend": {
-    "framework/library": "react.js",
-    "component lib": ["bootstrap", "ant design", "material ui", "tailwindcss", "chakra-ui"]
+    "framework/library": ["react.js, "vue.js"],
+    "component lib": ["tailwindcss", "chakra-ui", "bootstrap", "ant design", "material ui"]
   },
   "backend": ["node.js", "express.js", "django"],    // mostly node/express
   "database": ["mongodb", "mysql", "postgresql"],    // mostly mongodb
   "ide": ["vs code", "sublime text 3"],                     
-  "others": ["redux", "rest api", "webpack", "heroku", "netlify"]
+  "others": ["redux", "rest api"]
 }
 ```
 ### Favourite Stack
