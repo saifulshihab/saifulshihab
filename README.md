@@ -15,7 +15,7 @@
     "component lib": ["tailwindcss", "chakra-ui", "bootstrap", "ant design", "material ui"]
   },
   "backend": ["node.js", "express.js", "django"],    // mostly node/express
-  "database": ["mongodb", "mysql", "postgresql"],    // mostly mongodb
+  "database": ["mongodb", "postgresql"],
   "ide": ["vs code", "sublime text 3"],                     
   "others": ["redux", "rest api"]
 }
