@@ -1,7 +1,7 @@
-### Hi there, I'm [Shihab](https://ishihab-portfolio.herokuapp.com/) 👋
+### Hi there, I'm [Shihab](https://saiful-islam.netlify.app) 👋
 
 - [ ] 🌱 Currently working w/ MERN Stack
-- [ ] ⚡ Learning: Next.js, TypeScript, Vue.js, GraphQL
+- [ ] ⚡ Learning: Vue.js, GraphQL, Docker
 - [ ] 💻 Develop: Web Application
 - [ ] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [ ] 🎮 Hobbies: Playing Video Games, ...
@@ -10,14 +10,15 @@
 ### Tools & Technology
 ```yaml
 {
+  "language": ["javascript", "typescript"],
   "frontend": {
-    "framework/library": ["react.js, "vue.js"],
+    "framework/library": ["react.js, "next.js"],
     "component lib": ["tailwindcss", "chakra-ui", "bootstrap", "ant design", "material ui"]
   },
   "backend": ["node.js", "express.js", "django"],    // mostly node/express
   "database": ["mongodb", "postgresql"],
   "ide": ["vs code", "sublime text 3"],                     
-  "others": ["redux", "rest api"]
+  "others": ["redux", "rest api", "graphql", "apollo server", "typegraphql", "typeorm"]
 }
 ```
 ### Favourite Stack
