@@ -1,7 +1,7 @@
 ### Hi there, I'm [Shihab](https://saiful-islam.netlify.app) 👋
 
 - [ ] 🌱 Currently working w/ MERN Stack
-- [ ] ⚡ Learning: Vue.js, GraphQL, Docker
+- [ ] ⚡ Learning: GraphQL, Docker, React Native
 - [ ] 💻 Develop: Web Application
 - [ ] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [ ] 🎮 Hobbies: Playing Video Games, ...
