@@ -2,26 +2,25 @@
 
 - [x] 🌱 Currently working w/ MERN Stack
 - [x] ⚡ Learning: GraphQL, Docker, React Native
-- [x] 💻 Develop: Web Application
 - [x] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [x] 🎮 Hobbies: Playing Video Games, ...
 
 
-### Tools & Technology
+#### Tools & Technology
 ```yaml
 {
-  "language": ["javascript", "typescript"],
+  "language": ["javascript", "typescript😘"],
   "frontend": {
-    "framework/library": ["react.js, "next.js"],
-    "component lib": ["tailwindcss", "chakra-ui", "bootstrap", "ant design", "material ui"]
+    "library/framework": ["react.js, "next.js"],
+    "component lib": ["tailwindcss", "styled-components", "chakra-ui", "bootstrap", "ant design", "material ui"]
   },
   "backend": ["node.js", "express.js", "django"],    // mostly node/express
   "database": ["mongodb", "postgresql"],
-  "ide": ["vs code", "sublime text 3"],                     
-  "others": ["redux", "rest api", "graphql", "apollo server", "typegraphql", "typeorm"]
+  "ide": ["vs code"],                     
+  "others": ["redux", "rest api", "graphql", "apollo client", "typegraphql", "typeorm", "socket.io"]
 }
 ```
-### Favourite Stack
+#### Favourite Stack
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img align="left" alt="Redux" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
 <img align="left" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -30,7 +29,7 @@
 <img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 <br/>
 
-### Connect w/ Me
+#### Connect w/ Me
 
 [<img align="left" alt="linkdin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />][twitter]
