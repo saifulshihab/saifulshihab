@@ -11,14 +11,30 @@
 {
   "language": ["javascript", "typescript"],
   "frontend": {
-    "library/framework": ["react.js, "next.js"],
-    "component lib/framework": ["tailwindcss", "ant design", "styled-components", "chakra-ui", "bootstrap", "material ui"]
+    "library/framework": ["react.js", "next.js"],
+    "component lib/framework": [
+      "tailwindcss",
+      "ant design",
+      "styled-components",
+      "chakra-ui",
+      "bootstrap",
+      "material ui"
+    ]
   },
-  "backend": ["node.js/express", "django"],    // mostly node/express
+  "backend": ["node.js/express", "django"],
   "database": ["mongodb", "postgresql"],
-  "ide": ["vs code"],                     
-  "others": ["redux", "rest api", "graphql", "apollo client", "typegraphql", "typeorm", "socket.io"]
+  "ide": ["vs code"],
+  "others": [
+    "redux",
+    "rest api",
+    "graphql",
+    "apollo client",
+    "typegraphql",
+    "typeorm",
+    "socket.io"
+  ]
 }
+
 ```
 #### Favourite Stack
 <img align="left" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
