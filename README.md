@@ -1,15 +1,15 @@
 ### Hi there, I'm [Shihab](https://saiful-islam.netlify.app) 👋
 
 - [x] 🌱 Currently working w/ MERN Stack
-- [x] ⚡ Learning: GraphQL, Docker, React Native
+- [x] ⚡ Learning: GraphQL, Docker, React Native, Testing
 - [x] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [x] 🎮 Hobbies: Playing Video Games, ...
 
 
-#### Tools & Technology
+#### Stack
 ```yaml
 {
-  "language": ["javascript", "typescript😘"],
+  "language": ["javascript", "typescript"],
   "frontend": {
     "library/framework": ["react.js, "next.js"],
     "component lib": ["tailwindcss", "styled-components", "chakra-ui", "bootstrap", "ant design", "material ui"]
