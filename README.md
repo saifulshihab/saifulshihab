@@ -12,9 +12,9 @@
   "language": ["javascript", "typescript"],
   "frontend": {
     "library/framework": ["react.js, "next.js"],
-    "component lib": ["tailwindcss", "styled-components", "chakra-ui", "bootstrap", "ant design", "material ui"]
+    "component lib/framework": ["tailwindcss", "ant design", "styled-components", "chakra-ui", "bootstrap", "material ui"]
   },
-  "backend": ["node.js", "express.js", "django"],    // mostly node/express
+  "backend": ["node.js/express", "django"],    // mostly node/express
   "database": ["mongodb", "postgresql"],
   "ide": ["vs code"],                     
   "others": ["redux", "rest api", "graphql", "apollo client", "typegraphql", "typeorm", "socket.io"]
