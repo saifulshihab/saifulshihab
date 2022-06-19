@@ -4,6 +4,7 @@
 - [x] ⚡ Learning: GraphQL, Docker, React Native, Testing
 - [x] 🆕 Portfolio: https://www.behance.net/saifulis1am
 - [x] 🎮 Hobbies: Playing Video Games, ...
+- [x] 💬 Discord: _shihab#2645
 
 
 #### Stack
