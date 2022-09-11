@@ -22,13 +22,13 @@
       "material ui"
     ]
   },
-  "backend": ["node.js/express", "django"],
+  "backend": ["node.js - express"],
   "database": ["mongodb", "postgresql"],
   "ide": ["vs code"],
   "others": [
-    "redux",
-    "rest api",
+    "redux",    
     "graphql",
+    "django",
     "apollo client",
     "typegraphql",
     "typeorm",
