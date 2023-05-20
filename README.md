@@ -1,9 +1,9 @@
-### Hi there, I'm [Shihab](https://saiful-islam.netlify.app) 👋
+### Hi there, I'm [Shihab](https://saiful-islam.vercel.app) 👋
 
 - [x] 🌱 Currently working w/ MERN Stack
-- [x] ⚡ Learning: GraphQL, Docker, React Native, Testing
-- [x] 🆕 Portfolio: https://www.behance.net/saifulis1am
-- [x] 🎮 Hobbies: Playing Video Games, ...
+- [x] ⚡ Learning: GraphQL, Docker, React Native, Code Testing
+- [x] 🆕 Website: https://saiful-islam.vercel.app
+- [x] 🎮 Hobbies: Playing Video Games, Coding ...
 - [x] 💬 Discord: _shihab#2645
 
 
@@ -14,26 +14,18 @@
   "frontend": {
     "library/framework": ["react.js", "next.js"],
     "component lib/framework": [
-      "tailwindcss",
       "ant design",
+      "tailwindcss",      
       "styled-components",
       "chakra-ui",
       "bootstrap",
       "material ui"
     ]
   },
-  "backend": ["node.js - express"],
+  "backend": ["node.js, express"],
   "database": ["mongodb", "postgresql"],
   "ide": ["vs code"],
-  "others": [
-    "redux",    
-    "graphql",
-    "django",
-    "apollo client",
-    "typegraphql",
-    "typeorm",
-    "socket.io"
-  ]
+  "others": ["react native", "redux", "graphql", "django", "socket.io"]
 }
 
 ```
