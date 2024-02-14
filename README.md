@@ -1,31 +1,21 @@
 ### Hi there, I'm [Shihab](https://saiful-islam.vercel.app) 👋
 
-- [x] 🌱 Currently working w/ MERN Stack
-- [x] ⚡ Learning: GraphQL, Docker, React Native, Code Testing
-- [x] 🆕 Website: https://saiful-islam.vercel.app
+- [x] 🛠️ Currently working as front-end dev role
+- [x] ⚡ Learning: GraphQL, Docker, React Native, Code Testing, GoLang
+- [x] 🌐 Check this out: https://saiful-islam.vercel.app
 - [x] 🎮 Hobbies: Playing Video Games, Coding ...
 - [x] 💬 Discord: _shihab#2645
 
 
-#### Stack
+#### Things I do
 ```yaml
 {
   "language": ["javascript", "typescript"],
-  "frontend": {
-    "library/framework": ["react.js", "next.js"],
-    "component lib/framework": [
-      "ant design",
-      "tailwindcss",      
-      "styled-components",
-      "chakra-ui",
-      "bootstrap",
-      "material ui"
-    ]
-  },
+  "frontend": ["react.js", "next.js", "tailwind css", "antd", "shadcn/ui"],
   "backend": ["node.js, express"],
   "database": ["mongodb", "postgresql"],
-  "ide": ["vs code"],
-  "others": ["react native", "redux", "graphql", "django", "socket.io"]
+  "ide": ["vs-code"],
+  "others": ["react-native", "graphql", "django", "socket.io"]
 }
 
 ```
