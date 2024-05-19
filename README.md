@@ -1,7 +1,5 @@
 ### Hi there, I'm [Shihab](https://saiful-islam.vercel.app) 👋
 
-- [x] 🛠️ Currently working as front-end dev role
-- [x] ⚡ Learning: GraphQL, Docker, React Native, Code Testing, GoLang
 - [x] 🌐 Check this out: https://saiful-islam.vercel.app
 - [x] 🎮 Hobbies: Playing Video Games, Coding ...
 - [x] 💬 Discord: _shihab#2645
