@@ -9,11 +9,10 @@
 ```yaml
 {
   "language": ["javascript", "typescript"],
-  "frontend": ["react.js", "next.js", "tailwind css", "antd", "shadcn/ui"],
-  "backend": ["node.js, express"],
+  "frontend": ["react.js", "next.js", "tailwind css", "shadcn/ui", "antd"],
+  "backend": ["node.js/express"],
   "database": ["mongodb", "postgresql"],
-  "ide": ["vs-code"],
-  "others": ["react-native", "graphql", "django", "socket.io"]
+  "others": ["react-native", "socket.io", "graphql", "django"]
 }
 
 ```
