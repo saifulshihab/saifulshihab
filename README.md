@@ -1,9 +1,4 @@
-### Hi there, I'm [Shihab](https://saiful-islam.vercel.app) 👋
-
-- [x] 🌐 My website: https://saiful-islam.vercel.app
-- [x] 🎮 Hobbies: Playing Video Games, Coding ...
-- [x] 💬 Discord: _shihab#2645
-
+- [x] 🌐 Visit My Website: https://saiful-islam.vercel.app
 
 #### Things I do
 ```yaml
